@@ -17,7 +17,7 @@ char Enemy::getMoveEnemy(int playerX, int playerY) {      // Calaculates the mov
 	int adx = abs(dx); 
 	int ady = abs(dy);
 	distanceFromPlayer = adx + ady;           // calculate the distance from the player to decide the next move
-	if (distanceFromPlayer <= 3) {
+	if (distanceFromPlayer <=50) {
 		if (adx > ady) {
 			if (dx > 0) {
 				return 'a';

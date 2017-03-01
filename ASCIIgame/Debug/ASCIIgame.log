@@ -1,12 +1,2 @@
-﻿  Player.cpp
-  Level.cpp
-  Item.cpp
-  GetAndSet.cpp
-  GameSystem.cpp
-  Enemy.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  main.cpp
-  FileHandle.cpp
-  ASCIIgame.vcxproj -> D:\Class Stuff\CppRPG\ASCIIgame\Debug\ASCIIgame.exe
-  ASCIIgame.vcxproj -> D:\Class Stuff\CppRPG\ASCIIgame\Debug\ASCIIgame.pdb (Partial PDB)
+﻿  ASCIIgame.vcxproj -> D:\Class Stuff\Adv Game Dev\CppRPG\ASCIIgame\Debug\ASCIIgame.exe
+  ASCIIgame.vcxproj -> D:\Class Stuff\Adv Game Dev\CppRPG\ASCIIgame\Debug\ASCIIgame.pdb (Partial PDB)
